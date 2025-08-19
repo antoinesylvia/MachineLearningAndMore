@@ -70,7 +70,7 @@ Resources for learning, sharing knowledge, and engaging with the AI/ML community
 
 Resources that provide deep dives into AI/ML research or structured references.* [Google Docs Spreadsheet: AI Tools & Models](https://docs.google.com/spreadsheets/d/1foc98Jtbi0-GUsNySddvL0b2a7EuVQw8MoaQlWaDT-w/edit#gid=1516281503) - Comprehensive spreadsheet of tools/models.
 
-# People
+# People (will clean this list up and categorize by platform and will add short summaries by 8/23)
 
 * [(1) Ahmad Al-Dahle (@Ahmad\_Al\_Dahle) / X](https://x.com/Ahmad_Al_Dahle)
 
