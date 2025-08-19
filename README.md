@@ -131,7 +131,8 @@ Resources that provide deep dives into AI/ML research or structured references.
 
 #### **Code**
 
-# -**Tier 1:**- <https://livecodebench.github.io/leaderboard.html>
+# -**Tier 1:**
+- <https://livecodebench.github.io/leaderboard.html>
 
 - <https://aider.chat/docs/leaderboards/>
 
