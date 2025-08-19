@@ -127,11 +127,11 @@ Resources that provide deep dives into AI/ML research or structured references.
 
 * <https://www.youtube.com/@matthew_berman> \[Great channel that dives into various models.]
 
-### Leaderboards:
+# Leaderboards:
 
-#### **Code**
+## **Code**
 
-# -**Tier 1:**
+**Tier 1:**
 - <https://livecodebench.github.io/leaderboard.html>
 
 - <https://aider.chat/docs/leaderboards/>
@@ -168,9 +168,9 @@ Resources that provide deep dives into AI/ML research or structured references.
 
 - <https://paperswithcode.com/sota/code-generation-on-humaneval>
 
-#### **Chat**
+## **Chat**
 
-# -**Tier 1:**
+**Tier 1:**
 - <https://chat.lmsys.org/?leaderboard> \[Metric for human preference of an LLM answer]
 
 - <https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro>
@@ -185,7 +185,7 @@ Resources that provide deep dives into AI/ML research or structured references.
 
   - <https://rank.opencompass.org.cn/leaderboard-arena>
   
-# -**Tier 2:**
+**Tier 2:**
 - <https://evalplus.github.io/leaderboard.html>
 
 - <https://huggingface.co/spaces/Intel/low_bit_open_llm_leaderboard>
@@ -198,6 +198,6 @@ Resources that provide deep dives into AI/ML research or structured references.
 
 - <https://cevalbenchmark.com/static/leaderboard.html?ref=aipill.io> \[China Models]
 
-#**Tier 3:**
+**Tier 3:**
 - [Open LLM Leaderboard - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
