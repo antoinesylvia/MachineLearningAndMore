@@ -124,4 +124,4 @@ Resources that provide deep dives into AI/ML research or structured references.*
 
 * [(1) Vaibhav (VB) Srivastav (@reach\_vb) / X](https://x.com/reach_vb)
 
-* - <https://www.youtube.com/@matthew_berman> \[Great channel that dives into various models.]
+* <https://www.youtube.com/@matthew_berman> \[Great channel that dives into various models.]
