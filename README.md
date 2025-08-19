@@ -68,7 +68,8 @@ Resources for learning, sharing knowledge, and engaging with the AI/ML community
 
 # Research and Reference Materials
 
-Resources that provide deep dives into AI/ML research or structured references.* [Google Docs Spreadsheet: AI Tools & Models](https://docs.google.com/spreadsheets/d/1foc98Jtbi0-GUsNySddvL0b2a7EuVQw8MoaQlWaDT-w/edit#gid=1516281503) - Comprehensive spreadsheet of tools/models.
+Resources that provide deep dives into AI/ML research or structured references.
+* [Google Docs Spreadsheet: AI Tools & Models](https://docs.google.com/spreadsheets/d/1foc98Jtbi0-GUsNySddvL0b2a7EuVQw8MoaQlWaDT-w/edit#gid=1516281503) - Comprehensive spreadsheet of tools/models.
 
 # People (will clean this list up and categorize by platform and will add short summaries by 8/23)
 
@@ -125,3 +126,77 @@ Resources that provide deep dives into AI/ML research or structured references.*
 * [(1) Vaibhav (VB) Srivastav (@reach\_vb) / X](https://x.com/reach_vb)
 
 * <https://www.youtube.com/@matthew_berman> \[Great channel that dives into various models.]
+
+### Leaderboards:
+
+#### **Code**
+
+# -**Tier 1:**- <https://livecodebench.github.io/leaderboard.html>
+
+- <https://aider.chat/docs/leaderboards/>
+
+- <https://livebench.ai/#>
+
+- [**https://web.lmarena.ai/leaderboard**](https://web.lmarena.ai/leaderboard)
+
+- <https://snakebench.com/>
+
+- <https://arcprize.org/leaderboard>
+
+**Tier 2:**
+- <https://evalplus.github.io/leaderboard.html>
+
+- <https://www.swebench.com>
+
+- <https://scale.com/leaderboard/coding>
+
+- <https://mixeval.github.io/#leaderboard>
+
+- <https://huggingface.co/spaces/allenai/ZebraLogic>
+
+- <https://huggingface.co/spaces/mike-ravkine/can-ai-code-results>
+
+- <https://huggingface.co/spaces/bigcode/bigcodebench-leaderboard>
+
+- <https://huggingface.co/spaces/allenai/WildBench>
+
+- <https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard> \[Uncensored models only]
+
+**Tier 3:**
+- [Big Code Models Leaderboard - a Hugging Face Space by bigcode](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard)
+
+- <https://paperswithcode.com/sota/code-generation-on-humaneval>
+
+#### **Chat**
+
+# -**Tier 1:**
+- <https://chat.lmsys.org/?leaderboard> \[Metric for human preference of an LLM answer]
+
+- <https://huggingface.co/spaces/TIGER-Lab/MMLU-Pro>
+
+- <https://artificialanalysis.ai/leaderboards/models>
+
+- <https://openlm.ai/chatbot-arena/>
+
+- <https://www.superclueai.com/> \[Chinese Models]
+
+- [OpenCompass](https://opencompass.org.cn/leaderboard-llm) \[Easy way to see what models are open vs. closed source]
+
+  - <https://rank.opencompass.org.cn/leaderboard-arena>
+  
+# -**Tier 2:**
+- <https://evalplus.github.io/leaderboard.html>
+
+- <https://huggingface.co/spaces/Intel/low_bit_open_llm_leaderboard>
+
+- [Alpaca Eval Leaderboard (tatsu-lab.github.io)](https://tatsu-lab.github.io/alpaca_eval/)
+
+- <https://scale.com/leaderboard>
+
+- <https://www.vellum.ai/llm-leaderboard>
+
+- <https://cevalbenchmark.com/static/leaderboard.html?ref=aipill.io> \[China Models]
+
+#**Tier 3:**
+- [Open LLM Leaderboard - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+
