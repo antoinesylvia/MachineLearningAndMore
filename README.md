@@ -4,25 +4,25 @@
 
 - [AI News - Get the Latest AGI News](https://www.aibase.com/news)
 
-# Academia Papers
+# White Papers
 
-- [Arxiv](https://arxiv.org) - All the latest publications by all the top research organizations are found here. 
+- [Arxiv](https://arxiv.org) - All the latest publications by all the top research organizations are found here.
+- [ML Papers of the Week](https://github.com/dair-ai/ML-Papers-of-the-Week?tab=readme-ov-file) - Weekly ML papers repository.
 
-# Academia Papers Summarizers
+# White Papers Summarizers
 
-- <https://www.chatpaper.ai/>
-
-- <https://play.hyper.space/> \[Updated vector database that stores the latest Wiki, arXiv and other sources. Really good for explaining papers and breaking them out into understandable chunks] ***
+- <https://play.hyper.space/> - Updated vector database that stores the latest Wiki, arXiv and other sources. Really good for explaining papers and breaking them out into understandable chunks] 
 
 # Data Sets
 
-- [Kaggle](https://www.kaggle.com) - Competitions and datasets for ML practitioners.
+- [Kaggle](https://www.kaggle.com) - Competitions and data sets for ML practitioners.
 
-- <https://huggingface.co/datasets>
+- [Data Sets on Huggingface](https://huggingface.co/datasets) - Find data sets on Huggingface.
 
 # Exploration Platforms
 
-These are directories, tools, or repositories for exploring AI/ML capabilities, models, and datasets.* [Hugging Face](https://huggingface.co) - Repository for AI models, datasets, and tools.
+These are directories, tools, or repositories for exploring AI/ML capabilities, models, and datasets.
+* [Hugging Face](https://huggingface.co) - Repository for AI models, datasets, and tools.
 
 * [NVIDIA Build](https://build.nvidia.com/explore/discover) - Explore NVIDIA's AI ecosystem.
 
@@ -48,8 +48,6 @@ These lists and directories provide curated information about AI/ML tools, model
 
 * [GitPP AI - Awesome Chinese LLM](http://www.gitpp.com/gitppai/awesome-chinese-llm) - Repository for Chinese LLMs.
 
-* [ML Papers of the Week](https://github.com/dair-ai/ML-Papers-of-the-Week?tab=readme-ov-file) - Weekly ML papers repository.***
-
 # Large Language Model (LLM) Exploration
 
 Resources specific to exploring, analyzing, and understanding LLMs.* [LLM Explorer](https://llm.extractum.io) - Directory and analytics for LLMs.
@@ -67,8 +65,6 @@ Resources for learning, sharing knowledge, and engaging with the AI/ML community
 * [Machine Learning on Reddit](https://www.reddit.com/r/machinelearning/) - General ML discussions and resources.
 
 * [Singularity subreddit](https://www.reddit.com/r/singularity/)
-
-****
 
 # Research and Reference Materials
 
