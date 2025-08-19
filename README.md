@@ -6,7 +6,7 @@
 
 # Academia Papers
 
-All the latest publications by all the top research organizations are found here. * <https://arxiv.org/>***
+- [Arxiv](https://arxiv.org) - All the latest publications by all the top research organizations are found here. 
 
 # Academia Papers Summarizers
 
