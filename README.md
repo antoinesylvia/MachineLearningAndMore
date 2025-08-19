@@ -1,6 +1,6 @@
 # \*News\*
 
-- <https://news.smol.ai/>
+- [Smol.ai](https://news.smol.ai) - Currates all the top news of the day from sources such as Twitter/X posts, Reddit, blogs, various Discords and more! Can signup for daily digest. 
 
 - [AI News - Get the Latest AGI News](https://www.aibase.com/news)
 
